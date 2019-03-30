@@ -11,7 +11,7 @@ import { Slide } from 'vue-burger-menu';
 export default{
   name: "App",
   components: {
-    HelloWorld
+    Slide
   },
   data: function(){
     return {
